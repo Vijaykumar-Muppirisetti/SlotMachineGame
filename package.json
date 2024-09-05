@@ -1,0 +1,14 @@
+{
+  "name": "01slot_mch_project",
+  "version": "1.0.0",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vijaykumar.muppirisetti",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
